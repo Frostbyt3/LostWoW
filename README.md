@@ -1,6 +1,4 @@
-# ![logo](https://img.pngio.com/collection-of-lost-png-35-images-in-collection-png-lost-470_350.png)
-
-LostWoWCore (3.3.5)
+# ![logo](https://i.imgur.com/QpkEV19.png) LostWoWCore (3.3.5)
 
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](https://isitmaintained.com/project/Frostbyt3/LostWoW "Average time to resolve an issue") [![Percentage of issues still open](https://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](https://isitmaintained.com/project/Frostbyt3/LostWoW "Percentage of issues still open")
 
