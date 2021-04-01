@@ -1,4 +1,4 @@
-# ![logo] (https://community.trinitycore.org/public/style_images/1_trinitycore.png) LostWoWCore (3.3.5)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) LostWoWCore (3.3.5)
 
 LostWoW Core!
 
