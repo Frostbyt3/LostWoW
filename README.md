@@ -1,4 +1,4 @@
-# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) LostWoWCore (3.3.5)
+# ![logo](https://c0.klipartz.com/pngpicture/452/847/sticker-png-lost-surfboards-surfing-surfboard-shaper-t-shirt-lost-text-logo.png) LostWoWCore (3.3.5)
 
 LostWoW Core!
 
