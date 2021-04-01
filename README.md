@@ -6,8 +6,8 @@ LostWoWCore (3.3.5)
 
 ## Build Status
 
-master | 3.3.5
-:------------: | :------------:
+master
+:------------:
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/22889/badge.svg)](https://scan.coverity.com/projects/22889)
 
 ## Introduction
