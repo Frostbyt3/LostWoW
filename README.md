@@ -1,7 +1,7 @@
 # ![logo](https://i.imgur.com/QpkEV19.png) LostWoWCore (3.3.5)
 
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Average time to resolve an issue")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Percentage of issues still open")
 
 
 ## Build Status
