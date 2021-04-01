@@ -1,6 +1,7 @@
 # ![logo](https://i.imgur.com/QpkEV19.png) LostWoWCore (3.3.5)
 
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Average time to resolve an issue") [![Percentage of issues still open](https://isitmaintained.com/badge/open/TrinityCore/TrinityCore.svg)](https://isitmaintained.com/project/TrinityCore/TrinityCore "Percentage of issues still open")
+
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Average time to resolve an issue")
 
 
 ## Build Status
