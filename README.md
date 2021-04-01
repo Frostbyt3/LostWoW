@@ -6,9 +6,9 @@
 
 ## Build Status
 
-master
+main
 :------------:
-[![Main Build Status](https://travis-ci.com/Frostbyt3/LostWoW.svg?branch=main)
+[![Main Build Status](https://travis-ci.com/Frostbyt3/LostWoW.svg?branch=main)](https://travis-ci.com/Frostbyt3/LostWoW)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/4656/badge.svg)](https://scan.coverity.com/projects/4656)
 
 ## Introduction
