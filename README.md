@@ -1,4 +1,4 @@
-# ![logo](https://c0.klipartz.com/pngpicture/452/847/sticker-png-lost-surfboards-surfing-surfboard-shaper-t-shirt-lost-text-logo.png) LostWoWCore (3.3.5)
+# ![logo](https://png.pngitem.com/pimgs/s/264-2644327_lost-png-page-person-lost-png-transparent-png.png) LostWoWCore (3.3.5)
 
 LostWoW Core!
 
