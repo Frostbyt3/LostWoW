@@ -9,7 +9,8 @@
 main
 :------------:
 [![Main Build Status](https://travis-ci.com/Frostbyt3/LostWoW.svg?branch=main)](https://travis-ci.com/Frostbyt3/LostWoW)
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/4656/badge.svg)](https://scan.coverity.com/projects/4656)
+[![Build status](https://ci.appveyor.com/api/projects/status/gmttnb9a44yt10k2?svg=true)](https://ci.appveyor.com/project/Frostbyt3/lostwow)
+
 
 ## Introduction
 
