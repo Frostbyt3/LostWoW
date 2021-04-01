@@ -1,4 +1,4 @@
-# ![logo](https://png.pngitem.com/pimgs/s/264-2644327_lost-png-page-person-lost-png-transparent-png.png) LostWoWCore (3.3.5)
+# ![logo](https://img.pngio.com/collection-of-lost-png-35-images-in-collection-png-lost-470_350.png) LostWoWCore (3.3.5)
 
 LostWoW Core!
 
