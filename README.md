@@ -70,10 +70,11 @@ Read file [AUTHORS](AUTHORS).
 
 # ![lost](https://i.imgur.com/QpkEV19.png)
 
-** There is currently no website set up for LostWoW ** 
+**_There is currently no website set up for the LostWoW Server Core._**
+**_Please refer to the TrinityCore Links._** 
 
 # ![trinity](https://community.trinitycore.org/public/style_images/1_trinitycore.png)
 
-* [TrinityCore](https://www.trinitycore.org)
-* [TrinityCore Github 3.3.5a Branch](https://github.com/TrinityCore/TrinityCore/tree/3.3.5)
+* [TrinityCore Official Website](https://www.trinitycore.org)
+* [TrinityCore Github (3.3.5a Branch)](https://github.com/TrinityCore/TrinityCore/tree/3.3.5)
 * [Wiki](https://www.trinitycore.info)
