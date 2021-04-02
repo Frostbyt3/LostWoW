@@ -1,4 +1,4 @@
-# ![logo](https://i.imgur.com/QpkEV19.png) LostWoWCore (3.3.5)
+# ![logo](https://i.imgur.com/aU1GhS0.png) LostWoWCore (3.3.5)
 
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/Frostbyt3/LostWoW.svg)](http://isitmaintained.com/project/Frostbyt3/LostWoW "Percentage of issues still open")
@@ -71,7 +71,7 @@ Read file [AUTHORS](AUTHORS).
 ## Links
 
 
-# ![lost](https://i.imgur.com/QpkEV19.png)
+# ![lost](https://i.imgur.com/aU1GhS0.png)
 
 **_There is currently no website set up for the LostWoW Server Core._**
 **_Please refer to the TrinityCore Links._** 
